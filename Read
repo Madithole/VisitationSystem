@@ -1,12 +1,1 @@
-# Task Manager App
-A simple visitation system that allows users to add, update, and delete tasks.
 
-![GitHub issues](https://img.shields.io/github/issues/yourusername/projectname)
-
-## Features
-- User authentication and registration
-- Task creation, updating, and deletion
-- Dark mode support
-
-## Installation
-1. Clone the repository:
